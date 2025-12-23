@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Kommu Pranavi
 
 🎓 B.Tech Computer Science & Engineering (Data Science)  
-💻 Software Development Engineer (SDE) | Full Stack Developer  
+💻 Aspiring Software Development Engineer (SDE) | Full Stack Developer  
 🤖 AI, Machine Learning & Data Analytics Enthusiast  
 📍 Hyderabad, India  
 
@@ -9,12 +9,11 @@
 
 ## 👩‍💻 About Me
 
-I am a Computer Science undergraduate specializing in Data Science with a strong
-foundation in software development, core computer science concepts, and AI-driven
-applications.
+I am a Computer Science undergraduate specializing in Data Science with a strong foundation in
+software development, core computer science concepts, and AI-driven applications.
 
-I enjoy solving real-world problems by building scalable software systems,
-full stack web applications, and data-driven intelligent solutions.
+I enjoy solving real-world problems by building scalable software systems, full-stack web
+applications, and data-driven intelligent solutions.
 
 ---
 
@@ -65,11 +64,11 @@ full stack web applications, and data-driven intelligent solutions.
 
 ## 📚 Core Computer Science Subjects
 
-- **Data Structures & Algorithms (DSA)**  
-- **Operating Systems (OS)**  
-- **Computer Networks (CN)**  
-- **Database Management Systems (DBMS)**  
-- **Object-Oriented Programming (OOPs)**  
+- Data Structures & Algorithms (DSA)  
+- Operating Systems (OS)  
+- Computer Networks (CN)  
+- Database Management Systems (DBMS)  
+- Object-Oriented Programming (OOPs)  
 
 ---
 
@@ -124,6 +123,18 @@ full stack web applications, and data-driven intelligent solutions.
 
 ---
 
+## 📊 GitHub Stats
+
+![Pranavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranavi125&show_icons=true&theme=default)
+
+---
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavi125&layout=compact)
+
+---
+
 ## 📫 Contact Me
 
 📧 Email: kpranavi125@gmail.com  
@@ -132,4 +143,4 @@ full stack web applications, and data-driven intelligent solutions.
 
 ---
 
-⭐ *Thank you for visiting my GitHub profile. Feel free to explore my projects and connect with me!*  
+⭐ Thank you for visiting my GitHub profile. Feel free to explore my projects and connect with me!
