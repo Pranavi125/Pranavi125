@@ -39,15 +39,6 @@
 
 ---
 
-## 📊 Current GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranavi125&show_icons=true&theme=dark" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavi125&layout=compact&theme=dark" height="170"/>
-</p>
-
----
-
 ## 🧠 LeetCode Stats
 
 <p align="center">
