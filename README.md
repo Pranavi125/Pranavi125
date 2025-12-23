@@ -123,12 +123,6 @@ applications, and data-driven intelligent solutions.
 
 ---
 
-## 📊 GitHub Stats
-
-![Pranavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranavi125&show_icons=true&theme=default)
-
----
-
 ## 💻 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavi125&layout=compact)
